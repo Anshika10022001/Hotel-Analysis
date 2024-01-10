@@ -1,4 +1,7 @@
-# India Population Census 2011 Analysis
+
+![beautiful-resort-wallpaper-preview](https://github.com/Anshika10022001/Hotel-Analysis/assets/128470731/02ab787f-47d2-4c06-a71b-c92770997e73)
+
+# Hotel Booking Analysis
 ## Project Description
 
 Aimed to analyze the Hotel Booking data and created Power BI Dashboard showing useful insights.
