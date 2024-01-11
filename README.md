@@ -15,13 +15,50 @@ Aimed to analyze the Hotel Booking data and created Power BI Dashboard showing u
 #### 2. Should the parking lot size be increased?
 #### 3. What trends can we see in the data?
   
-### The whole code can be seen step by step in the pdf file created in this repository [SQL Analysis](https://github.com/Anshika10022001/Hotel-Analysis/blob/main/hotel_pdf.pdf)
+### The whole code can be seen step by step in the pdf file created in this repository [SQL Analysis](https://github.com/Anshika10022001/Hotel-Analysis/blob/main/hotel_project.pdf)
 
 ## The Dataset
 
 ![h1](https://github.com/Anshika10022001/Hotel-Analysis/assets/128470731/7d1f3b18-901b-4186-9323-5d4c3fc704cc)
 
 ![h2](https://github.com/Anshika10022001/Hotel-Analysis/assets/128470731/8604c27b-cec8-4ee7-80ac-e5fc4d4ea8a0)
+
+Here's an explanation of each column:
+
+- hotel: Name of the hotel.
+- is_canceled: Binary variable indicating whether the booking was canceled (1) or not (0).
+- lead_time: Number of days between booking date and arrival date.
+- arrival_date_year: Year of arrival.
+- arrival_date_month: Month of arrival.
+- arrival_date_week_number: Week number of arrival date.
+- arrival_date_day_of_month: Day of the month of arrival.
+- stays_in_weekend_nights: Number of weekend nights (Saturday or Sunday) the guest stayed.
+- stays_in_week_nights: Number of weekday nights the guest stayed.
+- adults: Number of adults.
+- children: Number of children.
+- babies: Number of babies.
+- meal: Type of meal booked.
+- costofmeal: Cost of the meal.
+- country: Country of origin of the guest.
+- market_segment: Market segment designation (e.g., Online Travel Agents, Direct, Corporate).
+- discount: Discount offered on the booking.
+- distribution_channel: Booking distribution channel (e.g., Direct, Travel Agents).
+- is_repeated_guest: Binary variable indicating whether the guest is a repeated guest (1) or not (0).
+- previous_cancellations: Binary variable indicating whether the guest had previous cancellations (1) or not (0).
+- previous_bookings_not_canceled: Binary variable indicating whether the guest had previous bookings that were not canceled (1) or not (0).
+- reserved_room_type: Type of room reserved.
+- assigned_room_type: Type of room assigned at check-in.
+- booking_changes: Binary variable indicating whether changes were made to the booking (1) or not (0).
+- deposit_type: Type of deposit made for the reservation.
+- agent: ID of the travel agency making the booking.
+- company: ID of the company making the booking.
+- days_in_waiting_list: Number of days the booking was in the waiting list before it was confirmed.
+- customer_type: Type of booking (e.g., Transient, Contract, Group).
+- adr: Daily rate for the booking.
+- required_car_parking_spaces: Number of car parking spaces required by the guest.
+- total_of_special_requests: Total number of special requests made by the guest.
+- reservation_status: Reservation status (e.g., Canceled, Check-Out, No-Show).
+- reservation_status_date: Date of the last update of the reservation status.
 
 
 ## Interactive Dashboard
