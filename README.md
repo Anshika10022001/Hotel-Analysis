@@ -70,8 +70,9 @@ Here's an explanation of each column:
 
 The following report was successfully created in Microsoft PowerBI.
 
-![DB](https://github.com/Anshika10022001/Hotel-Analysis/assets/128470731/99243e34-cf84-438e-89c0-061e7b754fa5)
+![DB1](https://github.com/Anshika10022001/Hotel-Analysis/assets/128470731/ff9b1988-7979-4895-9628-6dcd5acfc023)
 
+![DB2](https://github.com/Anshika10022001/Hotel-Analysis/assets/128470731/96b73bf9-ef49-4ffb-9f8b-bb518dbca422)
 
 ## Tech Stack
 
